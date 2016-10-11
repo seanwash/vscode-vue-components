@@ -3,13 +3,30 @@
     "displayName": "Vue Components",
     "description": ".vue component syntax highlighting for visual studio code",
     "version": "0.3.0",
+    "author": "seanwash",
     "publisher": "seanwash",
+    "icon": "images/logo.png",
+    "keywords": [
+        "vue",
+        "vuejs",
+        "vue.js"
+    ],
+    "bugs": {
+        "url": "https://github.com/Microsoft/vscode-spell-check/issues",
+        "email": "hello@seanwash.com"
+    },
+    "homepage": "https://github.com/seanwash/vscode-vue-components/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/seanwash/vscode-vue-components"
+    },
     "engines": {
         "vscode": "^1.5.0"
     },
     "categories": [
         "Languages"
     ],
+    "license": "MIT",
     "contributes": {
         "languages": [
             {
