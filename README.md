@@ -20,10 +20,10 @@ Thanks to https://github.com/vuejs/vue-syntax-highlight for the .tmLanguage file
 
 ## Release Notes
 
-### 0.0.3
+### 0.3.0
 
 Documenation / metadata updates
 
-### 0.0.1
+### 0.1.0
 
 Initial release
