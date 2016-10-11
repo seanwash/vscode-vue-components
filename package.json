@@ -1,8 +1,8 @@
 {
     "name": "vue",
-    "displayName": "vscode-vue-components",
+    "displayName": "Vue Components",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "seanwash",
     "engines": {
         "vscode": "^1.5.0"
@@ -11,16 +11,25 @@
         "Languages"
     ],
     "contributes": {
-        "languages": [{
-            "id": "vue",
-            "aliases": ["Vue Component", "vue"],
-            "extensions": [".vue"],
-            "configuration": "./language-configuration.json"
-        }],
-        "grammars": [{
-            "language": "vue",
-            "scopeName": "text.html.vue",
-            "path": "./syntaxes/vue.tmLanguage"
-        }]
+        "languages": [
+            {
+                "id": "vue",
+                "aliases": [
+                    "Vue Component",
+                    "vue"
+                ],
+                "extensions": [
+                    ".vue"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "vue",
+                "scopeName": "text.html.vue",
+                "path": "./syntaxes/vue.tmLanguage"
+            }
+        ]
     }
 }
