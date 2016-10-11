@@ -2,10 +2,14 @@
     "name": "vue",
     "displayName": "Vue Components",
     "description": ".vue component syntax highlighting for visual studio code",
-    "version": "0.3.0",
+    "version": "0.3.2",
     "author": "seanwash",
     "publisher": "seanwash",
     "icon": "images/logo.png",
+    "scripts": {
+        "release:minor": "vsce publish minor",
+        "release:patch": "vsce publish patch"
+    },
     "keywords": [
         "vue",
         "vuejs",
