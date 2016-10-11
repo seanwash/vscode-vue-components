@@ -1,8 +1,8 @@
 {
     "name": "vue",
     "displayName": "Vue Components",
-    "description": "",
-    "version": "0.0.2",
+    "description": ".vue component syntax highlighting for visual studio code",
+    "version": "0.0.3",
     "publisher": "seanwash",
     "engines": {
         "vscode": "^1.5.0"
