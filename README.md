@@ -1,6 +1,6 @@
 ## Features
 
-A simple pluging to support the highlighting of .vue files. So far tested with JavaScript, Coffeescript, and HTML.
+A simple plugin to support the highlighting of .vue files. So far tested with JavaScript, Coffeescript, and HTML.
 
 ## Install
 
@@ -22,7 +22,7 @@ Thanks to https://github.com/vuejs/vue-syntax-highlight for the .tmLanguage file
 
 ### 0.3.0
 
-Documenation / metadata updates
+Documentation / metadata updates
 
 ### 0.1.0
 
