@@ -1,6 +1,6 @@
 ## Features
 
-A simple pluging to support the highlighting of .vue files. So far tested with JavaScript, Coffeescript, and HTML.
+A simple plugin to support the highlighting of .vue files. So far tested with JavaScript, Coffeescript, and HTML.
 
 ## Install
 
@@ -34,7 +34,7 @@ Update vue.tmLanguage definition
 
 ### 0.3.0
 
-Documenation / metadata updates
+Documentation / metadata updates
 
 ### 0.1.0
 
