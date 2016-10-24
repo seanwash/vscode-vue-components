@@ -2,7 +2,7 @@
     "name": "vue",
     "displayName": "Vue Components",
     "description": ".vue component syntax highlighting for visual studio code",
-    "version": "0.4.0",
+    "version": "0.4.2",
     "author": "seanwash",
     "publisher": "seanwash",
     "icon": "images/logo.png",

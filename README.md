@@ -28,7 +28,7 @@ Thanks to [https://github.com/vuejs/vue-syntax-highlight](https://github.com/vue
 
 ## Release Notes
 
-### 0.3.1
+### 0.4.1
 
 Update vue.tmLanguage definition
 
