@@ -1,3 +1,9 @@
+# Notice - Deprecated
+
+This plugin fulfilled my needs for a while, but in the time since it was first released there are newer and more feature complete plugins around, and with more active maintainers.
+
+I now recommend using [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) as it has already solved a few of the issues that were opened for this plugin. Cheers!
+
 ## Features
 
 A simple plugin to support the highlighting of .vue files. So far tested with JavaScript, Coffeescript, and HTML.
